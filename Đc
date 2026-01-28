@@ -1,4 +1,56 @@
-phat 
-cuu
-vcd
-cds
+name Lưu Nguyên Phát
+msv 24ATT136
+email phatok555@gmail.com
+git LinhMoi001
+trelo phatok555
+
+
+        GIỚI THIỆU VỀ NGÔN NGỮ MARKDOWN (MD)
+Đây là một ngôn ngữ đánh dấu nhẹ với cú pháp văn bản thô,
+giúp việc định dạng văn bản trở nên cực kỳ nhanh chóng mà 
+không cần dùng chuột để nhấn các nút đậm/nghiêng phức tạp.
+
+1. Tiêu đề (Headings)
+Sử dụng ký tự # ở đầu dòng. Số lượng dấu # tương ứng với cấp độ tiêu đề.
+
+# Tiêu đề 1
+
+## Tiêu đề 2
+
+### Tiêu đề 3
+
+2. Định dạng chữ (Emphasis)
+Chữ đậm: Bao quanh bằng cặp dấu sao đôi **Văn bản** hoặc gạch dưới đôi __Văn bản__.
+
+Chữ nghiêng: Bao quanh bằng một dấu sao *Văn bản* hoặc một gạch dưới _Văn bản_.
+
+~~Chữ gạch ngang~~: Sử dụng hai dấu ngã ~~Văn bản~~.
+
+3. Danh sách (Lists)
+Danh sách không thứ tự: Dùng dấu *, -, hoặc +.
+
+Mục 1
+
+Mục 2
+
+Danh sách có thứ tự: Dùng số kèm dấu chấm.
+
+Bước một
+
+Bước hai
+
+4. Liên kết và Hình ảnh
+Liên kết: [Tên hiển thị](URL) (Ví dụ: [Google](https://google.com))
+
+Hình ảnh: ![Chú thích ảnh](URL)
+
+5. Trích dẫn và Mã nguồn (Quotes & Code)
+Trích dẫn: Dùng dấu > ở đầu dòng.
+
+Đây là một dòng trích dẫn.
+
+Mã nguồn (Code):
+
+Code trên một dòng: Dùng dấu huyền bao quanh `nội dung`.
+
+Khối code (Code block): Dùng ba dấu huyền (```) để bắt đầu và kết thúc.
